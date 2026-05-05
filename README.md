@@ -1,7 +1,8 @@
-Mostly experiments, tools, and things I’m trying to understand better.  
-A lot of it lives around systems, tooling, and binary/data formats.
+Mostly experiments, tools, and things I’m trying to understand better.
 
-Some of it works. Some of it doesn’t. That’s kind of the point.
+A lot of it ends up around systems, tooling, and binary/data formats.
+
+Some of it’s public. Some of it isn’t.
 
 Occasionally, it turns into something more serious.
 
